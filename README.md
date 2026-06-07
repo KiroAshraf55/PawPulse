@@ -75,6 +75,6 @@ The system utilizes a highly normalized relational database structure designed f
 ## 👥 Contributors
     >   A massive thank you to the team who made this masterpiece possible:
             *   Kirolos Ashraf      -   Client Portal
-            *   Omar Orashy         -   Staff Portal
+            *   Omar Elkorashy         -   Staff Portal
             *   Youssef Seif        -   veterinarian Portal
             *   Mohamed Gharabawy   -   Admin Portal
